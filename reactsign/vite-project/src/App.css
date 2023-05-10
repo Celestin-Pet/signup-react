@@ -1,0 +1,17 @@
+fieldset{
+  width: 24rem;
+  border-radius: 20px;
+  background-color: #f5f5dc;
+  margin: 5rem 2rem 4rem 3rem;
+  
+}
+h1{
+  color: rgb(31, 144, 243);
+}
+#p1{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.check{
+  display: flex;
+}
